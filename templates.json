@@ -1,0 +1,30 @@
+[{
+        "category": "data-science",
+        "name": "Data Science",
+        "templates": [{
+            "template_name": "Cookiecutter Data Science",
+            "github_url": "https://github.com/drivendataorg/cookiecutter-data-science"
+        }]
+    },
+    {
+        "category": "django",
+        "name": "Django",
+        "templates": [{
+                "template_name": "Cookiecutter Django",
+                "github_url": "https://github.com/cookiecutter/cookiecutter-django.git"
+            },
+            {
+                "template_name": "cookiecutter-django-rest",
+                "github_url": "https://github.com/agconti/cookiecutter-django-rest.git"
+            }
+        ]
+    },
+    {
+        "category": "golang",
+        "name": "Golang",
+        "templates": [{
+            "template_name": "cookiecutter-golang",
+            "github_url": "https://github.com/lacion/cookiecutter-golang.git"
+        }]
+    }
+]
